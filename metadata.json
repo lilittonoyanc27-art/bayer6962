@@ -1,0 +1,6 @@
+{
+  "name": "Imperativo Irregular",
+  "description": "Իսպաներենի հրամայական եղանակի (Imperativo Afirmativo) 8 բացառություն բայերի ուսուցման ինտերակտիվ վարժասարք՝ տեսությամբ և 6 հետաքրքրաշարժ խաղերով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
